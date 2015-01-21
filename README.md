@@ -1,4 +1,4 @@
-# anisoku
+# ANISOKU
 An online cryptic hunt for a college event.
 
 This is a NetBeans project developed by Team ANISOKU(Anirudh,Soni,Kunal). An online cryptic hunt where each level is of the form
